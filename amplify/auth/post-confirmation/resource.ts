@@ -4,4 +4,3 @@ export const postConfirmation = defineFunction({
   name: 'post-confirmation',
   entry: './handler.ts', 
 });
-export default postConfirmation;
